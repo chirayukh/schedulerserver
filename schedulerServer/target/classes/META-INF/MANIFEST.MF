@@ -2,7 +2,7 @@ Manifest-Version: 1.0
 Implementation-Title: schedulerServer
 Implementation-Version: 0.0.1-SNAPSHOT
 Built-By: Aayushi Totade
-Implementation-Vendor-Id: com.iig.gcp.scheduler.driver
+Implementation-Vendor-Id: com.iig.gcp.schedulerserver.driver
 Build-Jdk: 1.8.0_201
 Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
  ot-starter-parent/schedulerServer
